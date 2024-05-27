@@ -6,7 +6,7 @@ The goal of the honeypot project was to exhibit a simple tripwire that can be ad
 
 ### Skills Learned
 
-- Installment of honeypots.
+- Installment of basic honeypots.
 - Event log analysis.
 - Configuration of local security policy.
 
