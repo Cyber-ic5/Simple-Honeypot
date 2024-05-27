@@ -1,4 +1,4 @@
-# Simple-Honeypot
+# Simple Honeypot
 
 ## Objective
 [Brief Objective - Remove this afterwards]
