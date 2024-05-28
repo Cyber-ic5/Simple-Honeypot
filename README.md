@@ -29,7 +29,7 @@ Ref 3 & 4: Security settings (advanced) for the created folder set to add a prin
 ![Screenshot (1702)](https://github.com/Cyber-ic5/Simple-Honeypot/assets/169179159/e9976ad4-baa1-4281-b020-f5e1ed52d8d1)
 ![Screenshot (1703)](https://github.com/Cyber-ic5/Simple-Honeypot/assets/169179159/f094d0ce-92d4-4eaf-9cf0-e12318ace870)
 
-Ref 5: "Administrator" account chosen as the principle.
+Ref 5: "Administrator" user account chosen as the principle.
 
 ![Screenshot (1704)](https://github.com/Cyber-ic5/Simple-Honeypot/assets/169179159/436aebca-e37e-45ad-bd6e-2ccff8dd911c)
 
